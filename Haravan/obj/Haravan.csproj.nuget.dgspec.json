@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder (2)\\BABU\\Haravan\\Haravan.csproj": {}
+    "D:\\New folder (2)\\Shinko\\Shinko\\Haravan\\Haravan.csproj": {}
   },
   "projects": {
-    "D:\\New folder (2)\\BABU\\Haravan\\Haravan.csproj": {
+    "D:\\New folder (2)\\Shinko\\Shinko\\Haravan\\Haravan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder (2)\\BABU\\Haravan\\Haravan.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\Shinko\\Shinko\\Haravan\\Haravan.csproj",
         "projectName": "Haravan",
-        "projectPath": "D:\\New folder (2)\\BABU\\Haravan\\Haravan.csproj",
+        "projectPath": "D:\\New folder (2)\\Shinko\\Shinko\\Haravan\\Haravan.csproj",
         "packagesPath": "C:\\Users\\vutru\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder (2)\\BABU\\Haravan\\obj\\",
+        "outputPath": "D:\\New folder (2)\\Shinko\\Shinko\\Haravan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vutru\\AppData\\Roaming\\NuGet\\NuGet.Config",

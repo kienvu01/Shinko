@@ -1,0 +1,7 @@
+24-Aug-2021-08:37:15 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-Aug-2021-10:42:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-Aug-2021-22:03:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-Aug-2021-22:14:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders.json
+24-Aug-2021-22:16:15 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/discounts.json
+24-Aug-2021-22:18:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders.json
+24-Aug-2021-23:06:49 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

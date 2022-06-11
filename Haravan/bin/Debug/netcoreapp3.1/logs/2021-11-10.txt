@@ -1,0 +1,24 @@
+10-Nov-2021-11:15:49 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-11:18:28 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-11:19:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+10-Nov-2021-11:20:36 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-11:20:48 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json
+10-Nov-2021-11:22:44 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-11:23:02 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json
+10-Nov-2021-11:23:28 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-11:23:46 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json
+10-Nov-2021-11:25:48 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-11:26:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json
+10-Nov-2021-11:28:53 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-11:29:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json
+10-Nov-2021-13:41:46 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-13:42:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json
+10-Nov-2021-13:42:45 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products/1036931522/images.json
+10-Nov-2021-13:46:33 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-13:46:54 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json
+10-Nov-2021-13:46:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products/1036931551/images.json
+10-Nov-2021-13:49:51 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-13:50:11 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json
+10-Nov-2021-13:51:55 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+10-Nov-2021-13:52:16 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json
+10-Nov-2021-13:52:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products/1036931585/images.json

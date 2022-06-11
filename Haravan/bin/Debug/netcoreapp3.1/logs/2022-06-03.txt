@@ -1,0 +1,262 @@
+03-Jun-2022-15:07:44 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-15:08:12 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__3] [MoveNext] - /api/WP_product/CreateShinkoProduct
+03-Jun-2022-15:08:53 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-15:08:56 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:08:58 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:09:00 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:09:02 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:09:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:16:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+03-Jun-2022-15:17:50 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-15:17:54 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:17:54 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__3] [MoveNext] - /api/WP_product/CreateShinkoProduct
+03-Jun-2022-15:18:41 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-15:18:48 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:18:48 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__3] [MoveNext] - /api/WP_product/CreateShinkoProduct
+03-Jun-2022-15:18:52 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:18:52 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__3] [MoveNext] - /api/WP_product/CreateShinkoProduct
+03-Jun-2022-15:19:23 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-15:19:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:24:14 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-15:24:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:25:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-15:25:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:27:12 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__3] [MoveNext] - /api/WP_product/CreateShinkoProduct
+03-Jun-2022-15:27:16 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:27:56 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__3] [MoveNext] - /api/WP_product/CreateShinkoProduct
+03-Jun-2022-15:28:00 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:28:02 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:28:04 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:28:06 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:28:08 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-15:57:47 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-15:58:03 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-15:58:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:00:08 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:01:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:02:48 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:03:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:04:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:05:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:10:40 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:10:47 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:16:20 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:16:52 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:27:42 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:29:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:38:21 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:38:23 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:39:43 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:40:04 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:40:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:40:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:42:28 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:43:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:43:41 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:44:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:14 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:16 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:18 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:20 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:22 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:28 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:31 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:45 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:48 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:56 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:49:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:05 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:11 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:13 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:14 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:21 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:22 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:28 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:32 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:34 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:36 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:42 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:45 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:48 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:50:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:52:25 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-16:59:23 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:27 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:32 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:46 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:49 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:52 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:56 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-16:59:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:00 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:02 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:05 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:06 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:12 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:13 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:15 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:16 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:18 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:20 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:21 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:22 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:27 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:32 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:36 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:00:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:12:34 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+03-Jun-2022-17:13:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+03-Jun-2022-17:13:46 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+03-Jun-2022-17:13:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:13:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:13:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:13:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:05 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:12 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:14 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:16 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:18 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:21 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:22 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:27 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:45 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:49 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:14:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:05 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:06 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:08 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:12 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:14 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:16 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:18 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:20 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:22 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:28 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:15:31 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:17:06 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+03-Jun-2022-17:17:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+03-Jun-2022-17:18:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:05 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:12 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:14 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:21 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:31 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:45 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:48 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:18:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:04 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:06 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:11 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:13 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:15 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:21 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:27 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:31 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:42 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:46 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:49 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:56 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products
+03-Jun-2022-17:19:58 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products

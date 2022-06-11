@@ -1,0 +1,2 @@
+25-Feb-2022-10:12:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Feb-2022-10:14:36 [INFO] [Haravan.Controllers.API] [Get] - connect Ok

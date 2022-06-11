@@ -1,0 +1,47 @@
+14-Jul-2021-00:00:37 [ERROR] [Haravan.Controllers.Store+<DongBo_Kho>d__3] [MoveNext] - /Store/UpdateItemByStore
+14-Jul-2021-00:01:09 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-00:03:41 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-00:13:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-00:46:13 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-00:46:20 [ERROR] [Haravan.Controllers.Store+<DongBo_Kho>d__3] [MoveNext] - /Store/UpdateItemByStore
+14-Jul-2021-00:47:13 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-00:49:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-00:53:02 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-00:57:40 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-00:59:56 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-01:00:31 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-01:00:31 [ERROR] [Haravan.Controllers.Store+<DongBo_Kho>d__3] [MoveNext] - UnprocessableEntity
+14-Jul-2021-01:09:27 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-01:09:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-01:10:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-01:10:46 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-01:10:47 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-01:12:12 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-01:12:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-01:12:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-01:12:58 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-01:12:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+14-Jul-2021-02:00:02 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-14:06:00 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-14:14:07 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-14:30:15 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-14:30:50 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-14:31:59 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-14:34:23 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-16:52:11 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-16:52:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+14-Jul-2021-16:52:17 [ERROR] [Haravan.Controllers.Store+<DongBoKhoHaravan>d__4] [MoveNext] - /Store/UpdateStoreIdHaravan
+14-Jul-2021-16:56:06 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-16:56:38 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-17:00:37 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-17:00:40 [INFO] [Haravan.Controllers.API] [Get] - connect Ok
+14-Jul-2021-17:04:16 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-21:25:44 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-21:26:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+14-Jul-2021-21:27:01 [ERROR] [Haravan.Controllers.Store+<DongBoKhoHaravan>d__4] [MoveNext] - /Store/UpdateStoreIdHaravan
+14-Jul-2021-21:27:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+14-Jul-2021-21:32:35 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-21:33:40 [ERROR] [Haravan.Controllers.Store+<DongBoKhoHaravan>d__4] [MoveNext] - /Store/UpdateStoreIdHaravan
+14-Jul-2021-21:53:15 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+14-Jul-2021-21:57:52 [ERROR] [Haravan.Controllers.Store+<DongBoKhoHaravan>d__4] [MoveNext] - /Store/UpdateStoreIdHaravan
+14-Jul-2021-21:59:29 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

@@ -1,0 +1,48 @@
+01-Jun-2022-13:02:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:02:28 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:10:47 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:10:49 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:13:11 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:13:12 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:13:28 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:13:33 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:19:33 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:19:35 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:21:08 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:21:13 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:23:26 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:23:27 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:24:51 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:24:52 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:28:34 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:29:03 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:29:04 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:36:33 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:36:40 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:37:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:37:18 [ERROR] [Haravan.Controllers.WP_Product+<CreateShinkoProduct>d__2] [MoveNext] - /api/WP_product/CreateShinkoProduct
+01-Jun-2022-13:47:29 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:48:34 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:53:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:56:11 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-13:57:10 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-14:04:21 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-14:07:11 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-14:07:32 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+01-Jun-2022-14:29:58 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-14:33:30 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-14:33:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+01-Jun-2022-14:44:29 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-14:44:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+01-Jun-2022-16:51:29 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-16:53:02 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-16:53:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-16:54:49 [ERROR] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Invalid URI: The URI is empty.
+01-Jun-2022-16:55:52 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-16:56:02 [ERROR] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Invalid URI: The URI is empty.
+01-Jun-2022-16:56:51 [ERROR] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Invalid URI: The URI is empty.
+01-Jun-2022-16:58:53 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-16:59:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+01-Jun-2022-17:00:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+01-Jun-2022-17:01:04 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Jun-2022-17:01:08 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch

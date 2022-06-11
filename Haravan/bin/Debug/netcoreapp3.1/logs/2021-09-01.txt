@@ -1,0 +1,30 @@
+01-Sep-2021-13:01:39 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-13:04:41 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-13:05:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://coreapi.shipnhanh.vn/api/hub/GetInfoLocationByAddress?address=Xã Mỹ Hoà Hưng,Long Xuyên,An Giang
+01-Sep-2021-13:05:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-13:07:52 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-13:11:41 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-13:14:14 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-13:18:05 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-13:21:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-13:27:30 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-14:30:19 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-14:53:28 [ERROR] [Haravan.Controllers.ALP+<DongBoDiaChi>d__4] [MoveNext] - /ALP/DongBoDiaChi
+01-Sep-2021-15:44:43 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-15:51:18 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-15:53:55 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-15:55:13 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-15:56:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Price/GetListServiceByTPL
+01-Sep-2021-16:00:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-16:01:32 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/Price/GetListServiceByTPL
+01-Sep-2021-16:02:38 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-16:03:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/Price/GetListServiceByTPL
+01-Sep-2021-16:04:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-16:04:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/Price/GetListServiceByTPL
+01-Sep-2021-16:06:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/CreateByTPL
+01-Sep-2021-16:32:57 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-16:33:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/Price/GetListServiceByTPL
+01-Sep-2021-16:40:59 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-16:41:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/Price/GetListServiceByTPL
+01-Sep-2021-16:42:53 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+01-Sep-2021-16:43:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/Price/GetListServiceByTPL

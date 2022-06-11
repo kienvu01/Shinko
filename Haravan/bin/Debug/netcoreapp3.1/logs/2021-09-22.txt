@@ -1,0 +1,10 @@
+22-Sep-2021-13:58:50 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-Sep-2021-13:59:31 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+22-Sep-2021-13:59:56 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/GetShopCodeByShipmentNumber?shopcode=242108190045
+22-Sep-2021-14:00:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/GetShopCodeByShipmentNumber?shopcode=242108200016
+22-Sep-2021-14:00:55 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-Sep-2021-14:01:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+22-Sep-2021-14:07:00 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-Sep-2021-14:07:12 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+22-Sep-2021-14:18:34 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-Sep-2021-14:19:16 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn

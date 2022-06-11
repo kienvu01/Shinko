@@ -1,0 +1,20 @@
+02-Mar-2022-00:12:36 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Mar-2022-00:17:30 [ERROR] [Haravan.Controllers.Webhooks] [WebhokWP] - sqlQuery: declare @q nvarchar(4000) = ''
+IF OBJECT_ID('TempDb..#master') IS NOT NULL DROP TABLE #master;
+IF OBJECT_ID('TempDb..#detail') IS NOT NULL DROP TABLE #detail;
+IF OBJECT_ID('TempDb..#return') IS NOT NULL DROP TABLE #return;
+select top 0 * into #master from m64$000000
+select top 0 * into #detail from d64$000000
+select top 0 * into #return from d816$000000
+
+ insert into #master ( stt_rec,ma_dvcs,ma_ct,loai_ct,ma_gd,ngay_lct,ngay_ct,so_ct,ma_nt,ty_gia,ma_kh,status,dept_id,s1,s2,ma_tinh,ma_quan,ma_phuong,to_name,to_phone,ma_voucher,so_ct_post,so_dt,dia_chi)
+'','CTY','DXA','1','1','2022/03/02 00:04:42','2022/03/02 00:04:42','DL3728','VND','',1,'0327091644','1','BPKD','0','3728','HNI     ','','',N'trongtrong','0327091644',N'','3728','0327091644',N'dcgh1'
+DECLARE @status VARCHAR(50) set @status = 'pending'
+Update #master set status = dbo.GetStatusWPOrderOnline(@status)
+ insert into #detail ( stt_rec, stt_rec0, ma_ct, ngay_ct, so_ct, line_nbr, ma_vt, ma_kho, ma_vv, ma_sp, so_luong,gia2, gia_nt2, thue_nt,ck_nt,ck_tt_nt,tien_nt2,tien2,giaban,gia_ban_nt,tl_ck)
+ select '', '001', 'DXA', '2022/03/02 00:04:42', 'DL3728', 1, 'ABC380000.00020B', '', '', '', 2,65000,65000, 0,0,0,130000,130000,65000,65000,0 
+declare @table_sufix varchar(6) = '202203'
+ exec haravan_CreateOrderDL ::Incorrect syntax near ''.
+02-Mar-2022-00:27:57 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Mar-2022-01:51:59 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Mar-2022-01:54:35 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

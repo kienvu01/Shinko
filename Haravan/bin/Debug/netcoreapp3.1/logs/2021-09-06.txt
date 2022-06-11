@@ -1,0 +1,11 @@
+06-Sep-2021-09:53:08 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+06-Sep-2021-09:54:27 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+06-Sep-2021-09:54:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/Price/GetListServiceByTPL
+06-Sep-2021-10:45:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+06-Sep-2021-10:51:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+06-Sep-2021-10:52:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+06-Sep-2021-10:52:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/Price/GetListServiceByTPL
+06-Sep-2021-10:53:02 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/CreateByTPL
+06-Sep-2021-10:53:28 [ERROR] [Haravan.Controllers.ALP+<TaoDonGiaoHang>d__3] [MoveNext] - /ALP/GiaoHang
+06-Sep-2021-10:58:01 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+06-Sep-2021-10:58:44 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

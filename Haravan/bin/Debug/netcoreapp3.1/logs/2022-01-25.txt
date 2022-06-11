@@ -1,0 +1,140 @@
+25-Jan-2022-09:52:25 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jan-2022-10:54:43 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jan-2022-10:57:54 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jan-2022-11:03:09 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jan-2022-11:04:53 [ERROR] [Haravan.Controllers.Webhooks] [WebhokWP] - sqlQuery: declare @q nvarchar(4000) = ''
+IF OBJECT_ID('TempDb..#master') IS NOT NULL DROP TABLE #master;
+IF OBJECT_ID('TempDb..#detail') IS NOT NULL DROP TABLE #detail;
+IF OBJECT_ID('TempDb..#return') IS NOT NULL DROP TABLE #return;
+select top 0 * into #master from m64$000000
+select top 0 * into #detail from d64$000000
+select top 0 * into #return from d816$000000
+
+ insert into #master ( stt_rec, ma_ct, so_ct, ma_dvcs, loai_ct, ma_gd, ngay_ct, ngay_lct, ma_kh, dien_giai, ma_nvbh, ong_ba, fqty1, to_phone, fnote1, dia_chi,  datetime0, datetime2, user_id0, user_id2,t_ck_nt,t_cp_vc_nt,ma_voucher,s2,ma_nt,so_ct_post,ma_tinh,ma_quan,ma_phuong,job_id,s1,to_name,fcode1)
+ select '', 'HDB', 'DL1848', 'CH001', 'CT', 'GD', '2022/01/24 13:55:14', '2022/01/24 13:55:14', '0327091644', N'', '', N'', 0, '', N'' , N'',  getdate(), getdate(), '14', '14',10,0,'mrhyb7tp','1848','VND','1848','','',N'','','8',N'',''
+DECLARE @status VARCHAR(50) set @status = 'on-hold'
+Update #master set status = dbo.GetStatusWPOrderOnline(@status)
+ insert into #detail ( stt_rec, stt_rec0, ma_ct, ngay_ct, so_ct, line_nbr, ma_vt, ma_kho, ma_vv, ma_sp, so_luong,gia_nt, gia_nt2, thue_nt,ck_nt,ck_tt_nt,tien_nt2,tt_nt)
+ select '', '001', 'HDB', '2022/01/24 13:55:14', 'DL1848', 1, 'BBB130104.09MA87', '', '', '', 1,163990,163990, 0,0,0,164000,163990 
+declare @wsID varchar(1), @stt_rec char(13), @action varchar(10) = 'New' select @wsID = rtrim(val) from options where upper(name) = 'M_WS_ID'
+create table #idNumber (stt_rec varchar(32))
+insert into #idNumber exec fs_GetIdentityNumber @wsID, 'HBO', c81$000000
+select @stt_rec = stt_rec from #idNumber drop table #idNumber
+update #master set stt_rec = @stt_rec
+update #detail set stt_rec = @stt_rec
+declare @table_sufix varchar(6) = '202201'
+ exec haravan_CreateOrder 
+if not exists(select 1 from m64$202201  where LTRIM(RTRIM(so_ct_post)) = LTRIM(RTRIM('1848')))
+begin
+insert into m64$202201 select * from #master
+insert into d64$202201 select * from #detail
+exec scSSELIB$App$Voucher$UpdateInquiryTable 'HDB', 'i81$202201', 'm64$202201', 'd64$202201', 'stt_rec', @stt_rec, 'ma_kh,loai_ct,ma_nt;#10$,#15$,#20$; , , :ma_kho,ma_vt,tk_vt,tk_gv,tk_dt;#10$,#20$,#30$,#40$,#50$;d81,d81,d81,d81,d81'
+exec scSSELIB$App$Voucher$UpdateGrandTable 'HDB', 'c81$000000', 'm64$202201', 'stt_rec', @stt_rec
+exec SSELIB$App$Voucher$UpdateGeneral 'HDB', 'm64$202201', 'd64$202201', 'i81$202201', 'm64$202201', @stt_rec
+ exec haravan_AfterOrderCreated @stt_rec ,'202201'
+end::Invalid column name 'ten_vtthue'.
+Invalid column name 'gt'.
+Invalid column name 'gt_nt'.
+Invalid column name 'tk_gv'.
+Invalid column name 'tk_gv'.
+Invalid column name 'tk_gv'.
+Invalid column name 'tk_dt'.
+Invalid column name 'tk_dt'.
+Invalid column name 'tk_dt'.
+Invalid column name 'dien_giai_post'.
+Invalid column name 'ten_vtthue'.
+25-Jan-2022-11:11:54 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jan-2022-11:22:46 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jan-2022-11:23:09 [ERROR] [Haravan.Controllers.Webhooks] [WebhokWP] - sqlQuery: declare @q nvarchar(4000) = ''
+IF OBJECT_ID('TempDb..#master') IS NOT NULL DROP TABLE #master;
+IF OBJECT_ID('TempDb..#detail') IS NOT NULL DROP TABLE #detail;
+IF OBJECT_ID('TempDb..#return') IS NOT NULL DROP TABLE #return;
+select top 0 * into #master from m64$000000
+select top 0 * into #detail from d64$000000
+select top 0 * into #return from d816$000000
+
+ insert into #master ( stt_rec, ma_ct, so_ct, ma_dvcs, loai_ct, ma_gd, ngay_ct, ngay_lct, ma_kh, dien_giai, ma_nvbh, ong_ba, fqty1, to_phone, fnote1, dia_chi,  datetime0, datetime2, user_id0, user_id2,t_ck_nt,t_cp_vc_nt,ma_voucher,s2,ma_nt,so_ct_post,ma_tinh,ma_quan,ma_phuong,job_id,s1,to_name,fcode1)
+ select '', 'HDB', 'DL1848', 'CH001', 'CT', 'GD', '2022/01/24 13:55:14', '2022/01/24 13:55:14', '0327091644', N'', '', N'', 0, '', N'' , N'',  getdate(), getdate(), '14', '14',10,0,'mrhyb7tp','1848','VND','1848','','',N'','','8',N'',''
+DECLARE @status VARCHAR(50) set @status = 'on-hold'
+Update #master set status = dbo.GetStatusWPOrderOnline(@status)
+ insert into #detail ( stt_rec, stt_rec0, ma_ct, ngay_ct, so_ct, line_nbr, ma_vt, ma_kho, ma_vv, ma_sp, so_luong,gia_nt, gia_nt2, thue_nt,ck_nt,ck_tt_nt,tien_nt2,tt_nt)
+ select '', '001', 'HDB', '2022/01/24 13:55:14', 'DL1848', 1, 'BBB130104.09MA87', '', '', '', 1,163990,163990, 0,0,0,164000,163990 
+declare @wsID varchar(1), @stt_rec char(13), @action varchar(10) = 'New' select @wsID = rtrim(val) from options where upper(name) = 'M_WS_ID'
+create table #idNumber (stt_rec varchar(32))
+insert into #idNumber exec fs_GetIdentityNumber @wsID, 'HBO', c64$000000
+select @stt_rec = stt_rec from #idNumber drop table #idNumber
+update #master set stt_rec = @stt_rec
+update #detail set stt_rec = @stt_rec
+declare @table_sufix varchar(6) = '202201'
+ exec haravan_CreateOrderDL 
+if not exists(select 1 from m64$202201  where LTRIM(RTRIM(so_ct_post)) = LTRIM(RTRIM('1848')))
+begin
+insert into m64$202201 select * from #master
+insert into d64$202201 select * from #detail
+exec scSSELIB$App$Voucher$UpdateInquiryTable 'HDB', 'i64$202201', 'm64$202201', 'd64$202201', 'stt_rec', @stt_rec, 'ma_kh,loai_ct,ma_nt;#10$,#15$,#20$; , , :ma_kho,ma_vt,tk_vt,tk_gv,tk_dt;#10$,#20$,#30$,#40$,#50$;d81,d81,d81,d81,d81'
+exec scSSELIB$App$Voucher$UpdateGrandTable 'HDB', 'c64$000000', 'm64$202201', 'stt_rec', @stt_rec
+exec SSELIB$App$Voucher$UpdateGeneral 'HDB', 'm64$202201', 'd64$202201', 'i64$202201', 'm64$202201', @stt_rec
+ exec haravan_AfterOrderCreatedDL @stt_rec ,'202201'
+end::Invalid column name 'gt'.
+Invalid column name 'gt_nt'.
+Invalid column name 'tk_gv'.
+Invalid column name 'tk_gv'.
+Invalid column name 'tk_gv'.
+Invalid column name 'tk_dt'.
+Invalid column name 'tk_dt'.
+Invalid column name 'tk_dt'.
+25-Jan-2022-11:47:30 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jan-2022-11:47:58 [ERROR] [Haravan.Controllers.Webhooks] [WebhokWP] - sqlQuery: declare @q nvarchar(4000) = ''
+IF OBJECT_ID('TempDb..#master') IS NOT NULL DROP TABLE #master;
+IF OBJECT_ID('TempDb..#detail') IS NOT NULL DROP TABLE #detail;
+IF OBJECT_ID('TempDb..#return') IS NOT NULL DROP TABLE #return;
+select top 0 * into #master from m64$000000
+select top 0 * into #detail from d64$000000
+select top 0 * into #return from d816$000000
+
+ insert into #master ( stt_rec, ma_ct, so_ct, ma_dvcs, loai_ct, ma_gd, ngay_ct, ngay_lct, ma_kh, dien_giai, ma_nvbh, ong_ba, fqty1, to_phone, fnote1, dia_chi,  datetime0, datetime2, user_id0, user_id2,t_ck_nt,t_cp_vc_nt,ma_voucher,s2,ma_nt,so_ct_post,ma_tinh,ma_quan,ma_phuong,job_id,s1,to_name,fcode1)
+ select '', 'DXA', 'DL1846', 'CH001', 'CT', 'GD', '2022/01/24 12:01:44', '2022/01/24 12:01:44', '0327091644', N'', '', N'', 0, '0327091644', N'tdc2' , N'tdc1',  getdate(), getdate(), '14', '14',10,0,'mrhyb7tp','1846','VND','1846','HNI     ','',N'','','0',N'trongtrong',''
+DECLARE @status VARCHAR(50) set @status = 'pending'
+Update #master set status = dbo.GetStatusWPOrderOnline(@status)
+ insert into #detail ( stt_rec, stt_rec0, ma_ct, ngay_ct, so_ct, line_nbr, ma_vt, ma_kho, ma_vv, ma_sp, so_luong,gia_nt, gia_nt2, thue_nt,ck_nt,ck_tt_nt,tien_nt2,tt_nt)
+ select '', '001', 'HDB', '2022/01/24 12:01:44', 'DL1846', 1, 'BBB130104.09MA87', '', '', '', 2,204996.5,204996.5, 0,0,0,410000,409993 
+ insert into #detail ( stt_rec, stt_rec0, ma_ct, ngay_ct, so_ct, line_nbr, ma_vt, ma_kho, ma_vv, ma_sp, so_luong,gia_nt, gia_nt2, thue_nt,ck_nt,ck_tt_nt,tien_nt2,tt_nt)
+ select '', '002', 'HDB', '2022/01/24 12:01:44', 'DL1846', 2, 'BBB130104.12MA87', '', '', '', 1,204997,204997, 0,0,0,205000,204997 
+declare @wsID varchar(1), @stt_rec char(13), @action varchar(10) = 'New' select @wsID = rtrim(val) from options where upper(name) = 'M_WS_ID'
+create table #idNumber (stt_rec varchar(32))
+insert into #idNumber exec fs_GetIdentityNumber @wsID, 'HBO', c64$000000
+select @stt_rec = stt_rec from #idNumber drop table #idNumber
+update #master set stt_rec = @stt_rec
+update #detail set stt_rec = @stt_rec
+declare @table_sufix varchar(6) = '202201'
+ exec haravan_CreateOrderDL 
+if not exists(select 1 from m64$202201  where LTRIM(RTRIM(so_ct_post)) = LTRIM(RTRIM('1846')))
+begin
+insert into m64$202201 select * from #master
+insert into d64$202201 select * from #detail
+exec scSSELIB$App$Voucher$UpdateInquiryTable 'HDB', 'i64$202201', 'm64$202201', 'd64$202201', 'stt_rec', @stt_rec, 'ma_kh,loai_ct,ma_nt;#10$,#15$,#20$; , , :ma_kho,ma_vt,tk_vt,tk_gv,tk_dt;#10$,#20$,#30$,#40$,#50$;d81,d81,d81,d81,d81'
+exec scSSELIB$App$Voucher$UpdateGrandTable 'HDB', 'c64$000000', 'm64$202201', 'stt_rec', @stt_rec
+exec SSELIB$App$Voucher$UpdateGeneral 'HDB', 'm64$202201', 'd64$202201', 'i64$202201', 'm64$202201', @stt_rec
+ exec haravan_AfterOrderCreatedDL @stt_rec ,'202201'
+end::Invalid column name 'tk_gv'.
+Invalid column name 'tk_gv'.
+Invalid column name 'tk_gv'.
+Invalid column name 'tk_dt'.
+Invalid column name 'tk_dt'.
+Invalid column name 'tk_dt'.
+25-Jan-2022-11:51:21 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jan-2022-11:51:29 [ERROR] [Haravan.Controllers.Webhooks] [WebhokWP] - sqlQuery: declare @q nvarchar(4000) = ''
+DECLARE @m_stt_rec char(13)='' DECLARE @m_ngay_ct smalldatetime select top 1 @m_stt_rec = stt_rec,@m_ngay_ct = ngay_ct from   m64$202201 where LTRIM(RTRIM(so_ct_post)) = LTRIM(RTRIM('1846')) 
+Update m64$202201 set fnote1 =N'tdc2',dia_chi=N'tdc1'  where LTRIM(RTRIM(stt_rec)) = LTRIM(RTRIM(@m_stt_rec)) 
+DECLARE @status VARCHAR(50) set @status = 'pending'
+Update m64$202201 set status = dbo.GetStatusWPOrderOnline(@status)  where LTRIM(RTRIM(stt_rec)) = LTRIM(RTRIM(@m_stt_rec))
+IF OBJECT_ID('TempDb..#master') IS NOT NULL DROP TABLE #master;
+IF OBJECT_ID('TempDb..#detail') IS NOT NULL DROP TABLE #detail;
+IF OBJECT_ID('TempDb..#return') IS NOT NULL DROP TABLE #return;
+select top 1 * into #master from m64$202201 where LTRIM(RTRIM(stt_rec)) = LTRIM(RTRIM(@m_stt_rec)) 
+select  * into #detail from d64$202201 where LTRIM(RTRIM(stt_rec)) = LTRIM(RTRIM(@m_stt_rec))
+select top 0 * into #return from d816$000000
+
+exec haravan_AfterOrderUpdateDL '202201',@m_stt_rec::Could not find stored procedure 'haravan_AfterOrderUpdateDL'.
+25-Jan-2022-11:57:52 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jan-2022-13:47:32 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

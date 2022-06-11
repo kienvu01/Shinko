@@ -1,0 +1,19 @@
+05-Jun-2021-08:01:00 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+05-Jun-2021-08:01:11 [ERROR] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - The SSL connection could not be established, see inner exception.
+05-Jun-2021-08:06:26 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+05-Jun-2021-08:51:35 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+05-Jun-2021-08:53:13 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+05-Jun-2021-08:53:52 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+05-Jun-2021-08:54:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+05-Jun-2021-08:57:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+05-Jun-2021-10:43:32 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+05-Jun-2021-10:44:08 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=F25146802118)
+05-Jun-2021-10:44:12 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+05-Jun-2021-10:44:48 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=F25146802118)
+05-Jun-2021-10:45:16 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+05-Jun-2021-10:46:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=F25146802118)
+05-Jun-2021-10:47:20 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+05-Jun-2021-10:48:13 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+05-Jun-2021-10:48:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=F25146802118)
+05-Jun-2021-10:48:41 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+05-Jun-2021-10:48:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=F25146802118)

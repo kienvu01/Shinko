@@ -1,0 +1,4 @@
+04-Mar-2022-09:13:01 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+04-Mar-2022-09:35:08 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://daily.bubaby.com.vn/wp-json/wc/v3/products
+04-Mar-2022-09:35:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://daily.bubaby.com.vn/wp-json/wc/v3/products/4101/variations
+04-Mar-2022-09:43:09 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

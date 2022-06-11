@@ -1,0 +1,76 @@
+26-Jun-2021-08:14:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-08:14:24 [ERROR] [Haravan.Controllers.Webhooks] [Get] - /webhooks
+26-Jun-2021-08:14:58 [INFO] [Haravan.Controllers.Webhooks] [Get] - /webhooks
+26-Jun-2021-08:43:05 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-08:44:05 [ERROR] [Haravan.Controllers.GHN+<GetFeeAndTime>d__2] [MoveNext] - /GHN/GetFeeAndTime
+26-Jun-2021-08:45:10 [ERROR] [Haravan.Controllers.GHN+<GetFeeAndTime>d__2] [MoveNext] - /GHN/GetFeeAndTime
+26-Jun-2021-08:45:32 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-08:49:46 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-08:50:11 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=0&to_district=1484    
+26-Jun-2021-08:50:12 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-08:50:12 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-08:50:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=0&to_district=1484    
+26-Jun-2021-08:50:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-08:50:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-08:51:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=0&to_district=1484    
+26-Jun-2021-08:51:08 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-08:51:08 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-08:53:07 [ERROR] [Haravan.Controllers.GHN+<GetFeeAndTime>d__2] [MoveNext] - /GHN/GetFeeAndTime
+26-Jun-2021-08:55:57 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-08:56:04 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=0&to_district=1484    
+26-Jun-2021-08:56:05 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-08:56:05 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-08:57:44 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-08:59:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-09:01:07 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-09:02:14 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-09:32:41 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-09:32:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/create
+26-Jun-2021-09:48:02 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/create
+26-Jun-2021-10:14:58 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-10:17:27 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=-1&to_district=1484    
+26-Jun-2021-10:17:27 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:17:28 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:17:54 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=-1&to_district=1484    
+26-Jun-2021-10:17:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:17:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:18:00 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=-1&to_district=1489    
+26-Jun-2021-10:18:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:18:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:18:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=-1&to_district=1484    
+26-Jun-2021-10:18:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:18:20 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:19:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=-1&to_district=1484    
+26-Jun-2021-10:19:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:19:46 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:20:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=-1&to_district=1484    
+26-Jun-2021-10:23:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:23:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:24:39 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-10:24:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=0&to_district=1484    
+26-Jun-2021-10:25:13 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:25:13 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:30:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=0&to_district=1484    
+26-Jun-2021-10:30:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:30:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:34:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-10:36:16 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=1489&to_district=1484    
+26-Jun-2021-10:36:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:36:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:36:54 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-10:37:14 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=1489&to_district=1484    
+26-Jun-2021-10:37:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:38:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:39:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=1489&to_district=1484    
+26-Jun-2021-10:40:04 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:40:04 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:42:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=1489&to_district=1484    
+26-Jun-2021-10:42:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:42:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:45:16 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-10:45:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=1489&to_district=1484
+26-Jun-2021-10:46:48 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:46:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime
+26-Jun-2021-10:48:48 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/available-services?shop_id=1608691&from_district=1489&to_district=1484
+26-Jun-2021-10:48:54 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/fee
+26-Jun-2021-10:48:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/leadtime

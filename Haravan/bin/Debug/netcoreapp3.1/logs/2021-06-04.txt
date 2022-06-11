@@ -1,0 +1,6 @@
+04-Jun-2021-14:26:36 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+04-Jun-2021-14:26:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/customers.json/?updated_at_min=2020/01/01&updated_at_max=2021/05/22&page=1&limit=250
+04-Jun-2021-14:27:36 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/customers.json/?updated_at_min=2020/01/01&updated_at_max=2021/05/22&page=1&limit=250
+04-Jun-2021-15:10:48 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+04-Jun-2021-15:11:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/customers.json/?updated_at_min=2020/01/01&updated_at_max=2021/05/22&page=1&limit=250
+04-Jun-2021-15:22:07 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

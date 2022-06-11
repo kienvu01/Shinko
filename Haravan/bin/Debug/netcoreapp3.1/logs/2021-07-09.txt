@@ -1,0 +1,11 @@
+09-Jul-2021-14:40:10 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+09-Jul-2021-14:41:08 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/customers.json?query=filter=(phone:customer=0915441007)
+09-Jul-2021-14:41:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+09-Jul-2021-14:43:33 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+09-Jul-2021-14:43:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/customers.json?query=filter=(phone:customer=0915441007)
+09-Jul-2021-14:43:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+09-Jul-2021-14:43:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders.json
+09-Jul-2021-17:31:50 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+09-Jul-2021-21:42:47 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+09-Jul-2021-22:10:01 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+09-Jul-2021-22:11:19 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

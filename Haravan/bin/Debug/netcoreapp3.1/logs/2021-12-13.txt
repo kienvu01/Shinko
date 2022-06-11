@@ -1,0 +1,1 @@
+13-Dec-2021-15:56:00 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

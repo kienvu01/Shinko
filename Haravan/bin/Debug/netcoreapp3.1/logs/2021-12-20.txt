@@ -1,0 +1,32 @@
+20-Dec-2021-14:52:53 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-14:54:37 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-15:00:54 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-15:06:08 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-15:59:11 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:00:57 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:01:48 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:03:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:14:40 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:18:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:22:43 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:31:53 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:33:58 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:34:39 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:41:25 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:48:52 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:50:55 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:52:42 [ERROR] [Haravan.Controllers.Webhooks] [WebhokWP] - sqlQuery: declare @q nvarchar(4000) = ''
+DECLARE @status VARCHAR(50) set @status = 'pending'DECLARE @m_stt_rec char(13)='' DECLARE @m_ngay_ct smalldatetime select top 1 @m_stt_rec = stt_rec,@m_ngay_ct = ngay_ct from   m81$202112 where LTRIM(RTRIM(so_ct_post)) = LTRIM(RTRIM('157')) 
+Update m81$202112 set fnote1 =N'123',dia_chi=N'Nguyễn tuân'  where LTRIM(RTRIM(stt_rec)) = LTRIM(RTRIM(@m_stt_rec)) 
+DECLARE @status VARCHAR(50) set @status = 'pending'
+Update m81$202112 set status = dbo.GetStatusWPOrderOnline(@status)  where LTRIM(RTRIM(stt_rec)) = LTRIM(RTRIM(@m_stt_rec))
+IF OBJECT_ID('TempDb..#master') IS NOT NULL DROP TABLE #master;
+IF OBJECT_ID('TempDb..#detail') IS NOT NULL DROP TABLE #detail;
+IF OBJECT_ID('TempDb..#return') IS NOT NULL DROP TABLE #return;
+select top 1 * into #master from m81$202112 where LTRIM(RTRIM(stt_rec)) = LTRIM(RTRIM(@m_stt_rec)) 
+select  * into #detail from d81$202112 where LTRIM(RTRIM(stt_rec)) = LTRIM(RTRIM(@m_stt_rec))
+select top 0 * into #return from d816$000000
+
+exec haravan_AfterOrderUpdate '202112',@m_stt_rec::The variable name '@status' has already been declared. Variable names must be unique within a query batch or stored procedure.
+20-Dec-2021-16:54:49 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+20-Dec-2021-16:59:06 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

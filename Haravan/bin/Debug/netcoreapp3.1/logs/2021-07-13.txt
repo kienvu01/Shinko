@@ -1,0 +1,28 @@
+13-Jul-2021-15:28:55 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-15:32:44 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-15:35:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+13-Jul-2021-15:35:57 [ERROR] [Haravan.Controllers.Store+<DongBo_Kho>d__3] [MoveNext] - UnprocessableEntity
+13-Jul-2021-15:38:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+13-Jul-2021-15:38:30 [ERROR] [Haravan.Controllers.Store+<DongBo_Kho>d__3] [MoveNext] - UnprocessableEntity
+13-Jul-2021-15:39:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=191224081008                  )
+13-Jul-2021-15:40:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+13-Jul-2021-15:40:02 [ERROR] [Haravan.Controllers.Store+<DongBo_Kho>d__3] [MoveNext] - UnprocessableEntity
+13-Jul-2021-15:40:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=191224081008                  )
+13-Jul-2021-15:41:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+13-Jul-2021-15:41:38 [ERROR] [Haravan.Controllers.Store+<DongBo_Kho>d__3] [MoveNext] - UnprocessableEntity
+13-Jul-2021-15:42:03 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-15:42:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=191224081008)
+13-Jul-2021-15:43:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+13-Jul-2021-15:45:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=191224081008)
+13-Jul-2021-15:47:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+13-Jul-2021-17:01:13 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-17:05:56 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-17:07:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+13-Jul-2021-17:12:23 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-17:14:42 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-17:15:31 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-23:41:43 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-23:52:31 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+13-Jul-2021-23:53:58 [ERROR] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Invalid URI: The Uri string is too long.
+13-Jul-2021-23:54:07 [ERROR] [Haravan.Controllers.Store+<DongBo_Kho>d__3] [MoveNext] - /Store/UpdateItemByStore
+13-Jul-2021-23:54:26 [ERROR] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Invalid URI: The Uri string is too long.

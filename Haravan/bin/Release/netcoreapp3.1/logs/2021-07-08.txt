@@ -1,0 +1,15 @@
+08-Jul-2021-09:04:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+08-Jul-2021-09:11:35 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+08-Jul-2021-09:11:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1212388646.json
+08-Jul-2021-09:12:06 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1212388646.json
+08-Jul-2021-09:12:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1212388646.json
+08-Jul-2021-09:12:18 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1212388646.json
+08-Jul-2021-09:13:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+08-Jul-2021-09:13:54 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1212388646.json
+08-Jul-2021-09:14:44 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+08-Jul-2021-09:14:49 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1212388646.json
+08-Jul-2021-09:16:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+08-Jul-2021-09:16:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1212388646.json
+08-Jul-2021-09:16:23 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1212388646.json
+08-Jul-2021-18:01:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+08-Jul-2021-18:02:32 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

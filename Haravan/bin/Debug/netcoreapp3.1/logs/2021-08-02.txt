@@ -1,0 +1,43 @@
+02-Aug-2021-13:32:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-13:36:36 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-13:36:59 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-13:37:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-13:38:03 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-13:38:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-13:39:16 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-13:39:49 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-13:40:18 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-13:40:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-13:59:44 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-14:02:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-14:02:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-14:02:42 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-14:02:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-14:02:45 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-14:02:47 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-14:02:48 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-14:02:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-14:02:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+02-Aug-2021-16:04:37 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:11:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:13:55 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:15:40 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:18:05 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:20:58 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:24:05 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:26:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:28:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:31:30 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:32:37 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:34:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:35:16 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-16:36:28 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-23:09:25 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-23:15:11 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-23:17:41 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-23:21:34 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-23:23:15 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-23:25:07 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-23:37:43 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-23:38:40 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Aug-2021-23:50:12 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

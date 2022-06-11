@@ -1,0 +1,3 @@
+26-Jun-2021-08:14:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+26-Jun-2021-08:14:24 [ERROR] [Haravan.Controllers.Webhooks] [Get] - /webhooks
+26-Jun-2021-08:14:58 [INFO] [Haravan.Controllers.Webhooks] [Get] - /webhooks

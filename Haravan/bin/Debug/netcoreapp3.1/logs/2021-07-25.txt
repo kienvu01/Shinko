@@ -1,0 +1,46 @@
+25-Jul-2021-21:55:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jul-2021-21:56:42 [ERROR] [Haravan.Controllers.Order+<GetDsPhuong>d__4] [MoveNext] - /Order/GetDsPhuong
+25-Jul-2021-21:57:52 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jul-2021-21:58:41 [ERROR] [Haravan.Controllers.Order+<GetDsPhuong>d__4] [MoveNext] - /Order/GetDsPhuong
+25-Jul-2021-22:01:02 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jul-2021-22:01:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:01:28 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:01:28 [ERROR] [Haravan.Controllers.Order+<GetDsPhuong>d__4] [MoveNext] - /Order/GetDsPhuong
+25-Jul-2021-22:02:55 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jul-2021-22:07:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:27 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:28 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:34 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:34 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:42 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:07:42 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:19 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+25-Jul-2021-22:22:27 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:28 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:28 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:32 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:32 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:34 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward
+25-Jul-2021-22:22:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request_WithBody>d__9] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/master-data/ward

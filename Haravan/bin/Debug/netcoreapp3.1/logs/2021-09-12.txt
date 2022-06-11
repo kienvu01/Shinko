@@ -1,0 +1,3 @@
+12-Sep-2021-17:17:15 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+12-Sep-2021-17:18:19 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+12-Sep-2021-17:18:48 [ERROR] [Haravan.Controllers.GHN+<TaoDonGiaoHang>d__5] [MoveNext] - /GHN/GiaoHang

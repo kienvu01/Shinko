@@ -1,0 +1,12 @@
+22-May-2021-09:17:16 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-09:17:59 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-09:23:07 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-09:24:32 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-09:27:43 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-09:30:02 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-09:34:04 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-09:34:12 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-09:34:46 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-09:45:10 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-10:16:54 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+22-May-2021-10:18:07 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

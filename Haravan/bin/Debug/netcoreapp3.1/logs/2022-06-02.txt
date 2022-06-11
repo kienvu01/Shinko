@@ -1,0 +1,70 @@
+02-Jun-2022-09:43:49 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-09:49:29 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-09:53:00 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-09:53:02 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-09:54:26 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-09:54:30 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-09:55:37 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-09:55:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-09:58:59 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-09:59:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-09:59:53 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:00:38 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:00:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:01:37 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:01:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:02:16 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:02:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:03:09 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:03:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:04:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:05:32 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:12:23 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:15:05 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:15:18 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:15:20 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:19:07 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:19:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:20:54 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:20:58 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:22:15 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:22:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:22:53 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:23:00 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:23:33 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:23:35 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:24:06 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:24:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:29:44 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:29:53 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:37:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:37:45 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:39:13 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:39:14 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:45:48 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:46:40 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:48:21 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:48:47 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:49:12 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:51:33 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-10:52:22 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:52:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-10:52:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:11:03 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-11:11:52 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:12:18 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:12:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:13:08 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-11:13:10 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:13:12 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:13:14 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:17:59 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-11:18:22 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:18:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:18:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:37:15 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:37:31 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-11:37:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-14:27:02 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch
+02-Jun-2022-15:34:02 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+02-Jun-2022-15:37:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://shinko.com.vn/wp-json/wc/v3/products/batch

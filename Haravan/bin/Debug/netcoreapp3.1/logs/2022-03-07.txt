@@ -1,0 +1,19 @@
+07-Mar-2022-04:20:13 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-04:36:27 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-04:37:34 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://daily.bubaby.com.vn/wp-json/wc/v3/products
+07-Mar-2022-04:43:08 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-04:44:15 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-04:45:42 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-04:46:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__11] [MoveNext] - Call Api haravan : https://daily.bubaby.com.vn/wp-json/wc/v3/products/4117/variations
+07-Mar-2022-05:46:24 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-05:47:51 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-05:49:05 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-05:49:54 [INFO] [Haravan.ModelsApp.HttpClientApp+<Put_Request_WithBody>d__13] [MoveNext] - Call Api haravan : https://daily.bubaby.com.vn/wp-json/wc/v3/products/4117/variations/4118
+07-Mar-2022-05:54:42 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-05:55:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Put_Request_WithBody>d__13] [MoveNext] - Call Api haravan : https://daily.bubaby.com.vn/wp-json/wc/v3/products/4117/variations/4118
+07-Mar-2022-06:13:37 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-06:14:46 [INFO] [Haravan.ModelsApp.HttpClientApp+<Put_Request_WithBody>d__13] [MoveNext] - Call Api haravan : https://daily.bubaby.com.vn/wp-json/wc/v3/products/4117/variations/4118
+07-Mar-2022-06:14:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Put_Request_WithBody>d__13] [MoveNext] - Call Api haravan : https://daily.bubaby.com.vn/wp-json/wc/v3/products/4117/variations/4118
+07-Mar-2022-06:28:49 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-06:31:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+07-Mar-2022-07:31:29 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

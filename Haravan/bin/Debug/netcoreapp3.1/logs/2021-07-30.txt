@@ -1,0 +1,3 @@
+30-Jul-2021-19:31:40 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+30-Jul-2021-19:35:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://online-gateway.ghn.vn/shiip/public-api/v2/shipping-order/create
+30-Jul-2021-22:56:42 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

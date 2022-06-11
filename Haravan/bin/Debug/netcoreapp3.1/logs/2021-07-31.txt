@@ -1,0 +1,4 @@
+31-Jul-2021-15:56:34 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+31-Jul-2021-17:43:10 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+31-Jul-2021-17:44:49 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+31-Jul-2021-17:44:49 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast

@@ -1,0 +1,33 @@
+28-May-2021-14:16:52 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+28-May-2021-14:17:27 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+28-May-2021-14:40:31 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+28-May-2021-15:14:55 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+28-May-2021-16:36:38 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+28-May-2021-16:36:42 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1200864419.json
+28-May-2021-16:38:09 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1200864419.json
+28-May-2021-16:40:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1200864419.json
+28-May-2021-16:40:47 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders/1200864419.json
+28-May-2021-17:00:25 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+28-May-2021-17:13:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:13:39 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+28-May-2021-17:14:13 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:14:27 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+28-May-2021-17:15:22 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:15:24 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+28-May-2021-17:16:18 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:17:00 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+28-May-2021-17:17:15 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:20:41 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+28-May-2021-17:21:07 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+28-May-2021-17:21:20 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:21:24 [ERROR] [Haravan.Controllers.Voucher+<CheckVoucherExits>d__2] [MoveNext] - /Voucher/CheckDisCount
+28-May-2021-17:22:08 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:22:10 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+28-May-2021-17:22:14 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders.json
+28-May-2021-17:22:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:23:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders.json
+28-May-2021-17:24:52 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:28:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders.json
+28-May-2021-17:31:03 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+28-May-2021-17:31:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=112112112)
+28-May-2021-17:31:13 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/orders.json

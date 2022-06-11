@@ -1,0 +1,56 @@
+24-May-2021-10:44:41 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-10:48:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-10:48:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-10:49:34 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+24-May-2021-10:50:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-10:50:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-10:50:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+24-May-2021-11:02:42 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:05:30 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:15:18 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:15:55 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:18:32 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:23:13 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:45:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:46:02 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:46:58 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-11:46:58 [ERROR] [Haravan.Controllers.Store+<DongBo_KhoTheoItem>d__2] [MoveNext] - /Store/UpdateItem
+24-May-2021-11:47:47 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:47:54 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-11:47:54 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-11:47:55 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+24-May-2021-11:48:56 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-11:48:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-11:49:57 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+24-May-2021-11:50:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:50:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-11:50:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-11:50:52 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+24-May-2021-11:51:23 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-11:51:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-11:52:04 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+24-May-2021-11:53:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-11:53:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-11:53:51 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-11:53:52 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json
+24-May-2021-11:55:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-11:55:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-11:55:33 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=abc123)
+24-May-2021-11:55:33 [ERROR] [Haravan.Controllers.Store+<DongBo_KhoTheoItem>d__2] [MoveNext] - /Store/UpdateItem
+24-May-2021-11:56:07 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-11:56:17 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-11:57:11 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=abc123)
+24-May-2021-11:57:24 [ERROR] [Haravan.Controllers.Store+<DongBo_KhoTheoItem>d__2] [MoveNext] - /Store/UpdateItem
+24-May-2021-11:57:34 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-11:57:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-11:58:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=abc123)
+24-May-2021-11:59:46 [ERROR] [Haravan.Controllers.Store+<DongBo_KhoTheoItem>d__2] [MoveNext] - /Store/UpdateItem
+24-May-2021-12:00:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-12:00:54 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-12:01:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=abc123)
+24-May-2021-12:03:30 [ERROR] [Haravan.Controllers.Store+<DongBo_KhoTheoItem>d__2] [MoveNext] - /Store/UpdateItem
+24-May-2021-12:05:32 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+24-May-2021-12:05:39 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/locations.json
+24-May-2021-12:05:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=1234567)
+24-May-2021-12:05:43 [INFO] [Haravan.ModelsApp.HttpClientApp+<Get_Request>d__8] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/products.json?query=filter=(barcode:product=abc123)
+24-May-2021-12:05:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : https://apis.haravan.com/com/inventories/adjustorset.json

@@ -1,0 +1,35 @@
+15-Sep-2021-07:45:45 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-09:22:22 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-09:22:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+15-Sep-2021-09:22:58 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/price/getListService
+15-Sep-2021-09:24:30 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-10:28:52 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-10:36:00 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+15-Sep-2021-10:36:00 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/price/getListService
+15-Sep-2021-10:41:02 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-11:14:01 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-11:22:46 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-12:46:13 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-12:50:20 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+15-Sep-2021-12:50:34 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/Delete
+15-Sep-2021-12:52:19 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/Delete
+15-Sep-2021-13:01:52 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-13:02:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+15-Sep-2021-13:02:24 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/price/getListService
+15-Sep-2021-13:02:25 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/CreateByTPL
+15-Sep-2021-13:05:29 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-13:12:01 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-13:13:27 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+15-Sep-2021-14:17:10 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-14:21:17 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+15-Sep-2021-14:21:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Account/SignIn
+15-Sep-2021-14:21:37 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/price/getListService
+15-Sep-2021-14:21:38 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/CreateByTPL
+15-Sep-2021-14:22:00 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/price/getListService
+15-Sep-2021-14:22:01 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/CreateByTPL
+15-Sep-2021-14:22:32 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/price/getListService
+15-Sep-2021-14:23:44 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/CreateByTPL
+15-Sep-2021-14:24:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/price/getListService
+15-Sep-2021-14:24:26 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/CreateByTPL
+15-Sep-2021-14:24:41 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://postapi.shipnhanh.vn/api/price/getListService
+15-Sep-2021-14:25:50 [INFO] [Haravan.ModelsApp.HttpClientApp+<Post_Request_WithBody>d__10] [MoveNext] - Call Api haravan : http://cusapi.shipnhanh.vn/api/Shipment/CreateByTPL

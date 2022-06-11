@@ -1,0 +1,2 @@
+11-Oct-2021-16:43:10 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
+11-Oct-2021-17:00:30 [INFO] [Haravan.Controllers.WeatherForecastController] [Get] - /weatherforecast
